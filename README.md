@@ -1,8 +1,8 @@
-<h1 align="center">Assalamu Alaikum 👋, I'm Mohammed Arfath</h1>
-<h3 align="center">A Passionate Software Engineering Student | AI & CivicTech Enthusiast | Building for Ummah 🚀</h3>
+<h1 align="center">Hey there 👋, I'm Mohammed Arfath</h1>
+<h3 align="center">Software Engineering Student | AI & CivicTech Enthusiast | Building Future-Ready Solutions 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Alhamdulillah%2C+a+Curious+Learner!;Future+AI+Architect+InshaAllah;Loves+building+for+social+good" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Curious+Engineer+at+Heart;Future+AI+Architect;Building+Tech+for+Impact" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,60 +10,123 @@
 ### 🧠 About Me
 
 - 🎓 3rd Year M.Tech Software Engineering @ VIT Vellore  
-- 🔭 Working on: **AI-Powered Civic Engagement Platform**
-- 🌱 Currently mastering: `AI agents`, `Firebase`, `React`, `Maps APIs`
-- 💡 Passion: Building Islamic tools, ethical AI, and FOSS for Ummah  
-- ☕ Fun fact: I break code better than I break fast 😅
+- 🧪 Exploring the intersection of **AI, CivicTech, and Social Good**
+- 🔭 Currently working on: AI-Powered Civic Reporting Platform  
+- 🌱 Learning: `AI agents`, `React`, `Firebase`, `Geospatial APIs`
+- ⚡ Passionate about: Human-centered design, Open Source, Ethical AI  
+- ☕ Fun fact: Debugging is my cardio 💪
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)
+![Node.js](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArfathXYZ&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArfathXYZ&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed0Arfath&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed0Arfath&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-### ✨ Featured Projects
+### 🚀 Highlight Projects
 
-- 🚨 **AI Civic App** – Real-time reports, maps, moodboard using AI [🔗 View repo]
-- 📱 **Quranic Chatbot** – Using NLP to answer fiqh queries [🔗 View repo]
-- 🧭 **Prayer Time PWA** – Offline-first Islamic tool [🔗 View repo]
+#### 📓 Memorify App — Agentic AI Diary with Emotional Intelligence
+- 🧠 AI-powered diary with voice input, emotion tracking & personal AI companion
+- 🛠️ Stack: TypeScript, Supabase, Together.ai, ElevenLabs, PWA
+- 📊 95% user satisfaction | Offline support | Sentiment-based journaling
+[🔗 View Code](https://github.com/Mohammed0Arfath/Memorify-App) | [📘 Docs](https://drive.google.com/file/d/1xn0_ahtkpnWDc17zI-t__jneOCEhtQqI/view)
+
+#### 🤟 Sign Language ChatBot — Real-Time Gesture Recognition
+- 🧠 Solving communication barriers using AI + Computer Vision
+- 🛠️ Stack: Python, OpenCV, CNN, Gemini API
+- 📊 94% accuracy | 50-sign vocabulary | 20 FPS real-time
+[🔗 View Code]() | [📘 Docs]([#](https://drive.google.com/file/d/1kZL5qtAMu8zNBPN7g6OCOMTXEbmbrDor/view))
+
+#### 🧠 Crowd Demographics Analyzer — AI-Powered Public Safety Insights
+- 🔍 Real-time age/gender classification using deep learning
+- 🛠️ Stack: Vision Transformers, UTKFace Dataset
+- 📊 89% accuracy | Public safety analytics for events
+[🔗 View Code](https://colab.research.google.com/drive/1gems3ffsOroOuZ5mFdxzKi4eYwF5bDY4?usp=sharing) | [📘 Docs](https://drive.google.com/file/d/1konMNtpN6-lG8YbTaNjmsO34Ta4LqHY1/view)
+
+#### 🍎 FruitVision ML — Advanced Quality Classifier
+- 🚪 Classifies fruit quality using texture + deep features
+- 🛠️ Stack: EfficientNet, LBP, GLCM, Python
+- ⚡ 92% accuracy | 10x faster than manual inspection
+[🔗 View Code](https://colab.research.google.com/drive/1ofMCPDc8hs8FOoIL1UDX8wXzswsWCB32?usp=sharing) | [📘 Docs](https://drive.google.com/file/d/1DvsfsQ2OnpL5P7094SfVYwjaMrKVFdrK/view)
+
+#### 🛡️ Real-Time Facial Recognition — High-Performance Security System
+- 🔐 Facial recognition with real-time performance and lighting robustness
+- 🛠️ Stack: YuNet, OpenCV, Python
+- 📊 96% accuracy | Sub-second latency
+[🔗 View Code](https://colab.research.google.com/drive/1yp6shGA5GAqfUykisbJF9D8rsg-XsQZk?usp=sharing) | [📘 Docs](https://drive.google.com/file/d/1x4QtproMytVBejcZy08rsektDisGqfpq/view)
 
 ---
 
-### 📫 Let's Connect
+### 📄 Certifications & Badges
+
+#### 📚 Infosys Springboard (2025)
+- Deep Learning  
+- Computer Vision  
+- Generative AI  
+- Agile & Scrum  
+- Soft Skills
+
+#### ☁️ AWS Educate (2025)
+- Introduction to Generative AI  
+- AWS Cloud Practitioner Essentials
+
+#### ☁️ Google Cloud (2025)
+- Gemini Apps with Streamlit  
+- Vertex AI Fundamentals  
+- Prompt Design in Vertex AI  
+- Gemini for Data Scientists & Analysts  
+- Cloud ML Skill Badges  
+- Responsible AI Practices  
+- Intro to Large Language Models  
+- Build Real World AI Apps with Imagen  
+- Explore Generative AI with Gemini API
+
+#### 🎓 Kaggle & Forage
+- Python Programming  
+- Intro + Intermediate ML  
+- Deloitte Data Analytics Virtual Experience  
+- Forage Solutions Architecture Experience
+
+---
+
+### 📢 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohammed-arfath-r/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="mailto:mohammedarfath02003@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/Mohammed0arfath"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
 
+### 🌐 Stats & Reach
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArfathXYZ&style=flat-square&color=blue" alt="visitor badge"/>
-  <img src="https://img.shields.io/github/followers/ArfathXYZ?label=Follow&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=Mohammed0Arfath&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Mohammed0Arfath?label=Follow&style=social" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArfathXYZ&theme=algolia&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohammed0Arfath&theme=algolia&no-frame=true&margin-w=15" />
 </p>
 
 ---
-<sub><i>Made with ❤️, Coffee ☕, and lots of <b>Du'a</b> in India 🇮🇳</i></sub>
+
+<sub><i>Crafted with clean code, strong coffee, and relentless curiosity 💡</i></sub>
