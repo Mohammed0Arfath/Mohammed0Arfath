@@ -124,7 +124,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohammed0Arfath&theme=algolia&no-frame=true&margin-w=15" />
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohammed0Arfath&theme=react-dark)
 </p>
 
 ---
