@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🎓 3rd Year M.Tech Software Engineering @ VIT Vellore  
+- 🎓 4th Year M.Tech Software Engineering @ VIT Vellore  
 - 🧪 Exploring the intersection of **AI, CivicTech, and Social Good**
 - 🔭 Currently working on: AI-Powered Civic Reporting Platform  
 - 🌱 Learning: `AI agents`, `React`, `Firebase`, `Geospatial APIs`
@@ -52,7 +52,7 @@
 - 🧠 Solving communication barriers using AI + Computer Vision
 - 🛠️ Stack: Python, OpenCV, CNN, Gemini API
 - 📊 94% accuracy | 50-sign vocabulary | 20 FPS real-time
-[🔗 View Code]() | [📘 Docs]([#](https://drive.google.com/file/d/1kZL5qtAMu8zNBPN7g6OCOMTXEbmbrDor/view))
+[🔗 View Code]() | [📘 Docs](https://drive.google.com/file/d/1kZL5qtAMu8zNBPN7g6OCOMTXEbmbrDor/view)
 
 #### 🧠 Crowd Demographics Analyzer — AI-Powered Public Safety Insights
 - 🔍 Real-time age/gender classification using deep learning
