@@ -124,7 +124,7 @@
 </p>
 
 <p align="center">
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohammed0Arfath&theme=react-dark)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed0Arfath&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
