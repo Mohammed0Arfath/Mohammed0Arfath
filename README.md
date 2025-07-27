@@ -108,11 +108,18 @@
 
 ### 📢 Connect with Me
 
-<p>
-  <a href="https://www.linkedin.com/in/mohammed-arfath-r/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
-  <a href="mailto:mohammedarfath02003@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/Mohammed0arfath"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-arfath-r/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:mohammedarfath02003@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/Mohammed0arfath">
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
